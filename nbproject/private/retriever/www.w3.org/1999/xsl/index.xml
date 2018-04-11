@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="en" lang="en">
+<head>
+  <title>Error 401</title>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <link rel="stylesheet" href="http://www.w3.org/StyleSheets/base" />
+  <link rel="stylesheet" href="http://www.w3.org/Help/error-style" />
+</head>
+
+<body>
+<h1><a href="http://www.w3.org/"><img
+src="http://www.w3.org/Icons/WWW/w3c_home" alt="W3C" width="72" /></a>
+Sorry, Password Required</h1>
+<hr />
+
+<p>An account (with a password) is required to view the page
+that you requested.</p>
+
+<ul>
+    <li>If you don't have one,
+    <a href="/Help/Account/">request a new account</a>.</li>
+    <li>If you have an account but 
+    forgot your password, <a href="/accounts/recover">recover your password</a>.</li>
+    <li>In case of trouble with your W3C Account, please send an email to
+    <a href="mailto:member-access@w3.org">member-access@w3.org</a>.</li>
+</ul>
+
+<p>If you still have a question, please consult the 
+<a href="http://www.w3.org/Help/Webmaster">Webmaster FAQ</a> or to find the information you are looking for please
+    start on the <a href="http://www.w3.org/">W3C Home
+    page</a> or the <a href="http://search.w3.org/">W3C search page</a>.</p>
+<hr />
+<address>
+  <a href="http://www.w3.org/Help/Webmaster">Webmaster</a>
+  $Id: Error-401.html,v 1.31 2014-05-14 14:52:00 vivien Exp $
+</address>
+</body>
+</html>

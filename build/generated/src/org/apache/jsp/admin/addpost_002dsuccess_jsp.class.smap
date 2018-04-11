@@ -1,0 +1,12 @@
+SMAP
+addpost_002dsuccess_jsp.java
+JSP
+*S JSP
+*F
++ 0 addpost-success.jsp
+admin/addpost-success.jsp
+*L
+5,39:44
+44:83,3
+45,8:86
+*E

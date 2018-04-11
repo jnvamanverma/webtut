@@ -1,0 +1,14 @@
+SMAP
+insert_005fpost_jsp.java
+JSP
+*S JSP
+*F
++ 0 insert_post.jsp
+admin/insert_post.jsp
+*L
+5,4:45
+8:48,9
+9:57,2
+10:59
+12,7:61
+*E

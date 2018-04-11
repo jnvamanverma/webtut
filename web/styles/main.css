@@ -1,0 +1,67 @@
+
+div.container {
+    padding-left: 10px;
+    padding-right: 10px;
+    width : 98%;
+    border : 1px solid gray;
+    margin: 50px auto;
+    overflow: auto;
+    min-height: 600px;
+}
+
+div.top {
+    position:relative;
+    background-color:#ffffff;
+    height:68px;
+    padding-top:20px;
+    line-height:50px;
+    overflow:hidden;
+    z-index:2;
+}
+
+.webtut-logo {
+    font-family:fontawesome;
+    text-decoration:none;
+    line-height:1;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    font-size:37px;
+    letter-spacing:3px;
+    color:#555555;
+    display:inline-block;
+    position:absolute;
+    top:17px;
+}
+
+.dotcom {
+    color:#4CAF50;
+}
+
+div.logo-content {
+    font-family:'Segoe UI',Arial,sans-serif;
+    margin-top: 20px;
+    letter-spacing: 3px;
+    display: inline-block;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: lightblue;
+    clear: left;
+}
+
+footer {
+      text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.a1 {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
